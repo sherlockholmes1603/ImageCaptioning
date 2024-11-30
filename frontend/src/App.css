@@ -1,0 +1,10 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  input[type="file"] {
+    margin-top: 20px;
+  }
+  
